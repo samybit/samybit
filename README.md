@@ -1,5 +1,4 @@
 # About me 👋
-🐍 **Open Source Software Developer | Python Specialist |**
 
 - 🌱 I’m currently learning Back-End development while advancing to DevOps engineering
 - 🎨 Hobbies: 🕹️ Gaming, 🏋 Bodybuilding

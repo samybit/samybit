@@ -1,5 +1,5 @@
 # About me 👋
 
-- Learning: computer science and software development. 💻⚙️
+- Field: Web Development
 - Hobbies: Gaming, Bodybuilding
 - __Email__: samyb.samir&#8203;@gmail.com

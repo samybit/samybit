@@ -1,5 +1,5 @@
-# About me 👋
+                                                                      # About me 👋
 
-- Field: Web Development
-- Hobbies: Gaming, Bodybuilding
+- __Field__: Web Development
+- __Hobbies__: Gaming, Bodybuilding
 - __Email__: samyb.samir&#8203;@gmail.com

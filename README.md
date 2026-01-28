@@ -3,11 +3,9 @@
 - __Field__: Web Development
 - __Hobbies__: Gaming, Bodybuilding
 - __Email__: samyb.samir&#8203;@gmail.com
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F855A&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Docker+%26+DevOps;Pixel+Perfect+Figma+Designs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=22&pause=1000&color=E2E2E2&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Docker+%26+DevOps;Pixel+Perfect+Figma+Designs" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />

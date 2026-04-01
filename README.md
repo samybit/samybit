@@ -1,9 +1,9 @@
 # About me 👋
 
-Web developer focused on building clean, practical web applications.  
+Developer focused on building clean, practical applications.  
 Currently improving my skills in backend development and open-source contribution.🐳
 
-- **Field:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Development, Scripting  
+- **Field:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Development, Software Engineering 
 - **Interests:**&nbsp;&nbsp;&nbsp;&nbsp;Gaming, Bodybuilding, Reading  
 - **Email:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samyb.samir@gmail.com
 <!-- <p align="center">

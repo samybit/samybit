@@ -1,25 +1,20 @@
-# About me 👋
+<div align="center">
+
+# 👋 About Me
 
 Developer focused on building clean, practical applications.  
-Currently improving my skills in backend development and open-source contribution.🐳
+Currently improving my skills in backend development and open-source contribution. 🐳
 
-- **Field:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Development, Software Engineering 
-- **Interests:**&nbsp;&nbsp;&nbsp;&nbsp;Gaming, Bodybuilding, Reading  
-- **Email:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samyb.samir@gmail.com
-<!-- <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Code&weight=300&size=22&pause=900&color=E2E2E2&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Docker+%26+DevOps;Pixel+Perfect+Figma+Designs" alt="Typing SVG" />
-</p> -->
-<div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</div>
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
 
-📌 __portfolio__: [https://samybit.github.io/brutalist-portfolio/]
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+*Check my [portfolio](https://samybit.github.io/brutalist-portfolio/).*
+</div>

@@ -1,89 +1,89 @@
 <div align="center">
 
-### Frontend & Design
+Frontend & Design
 <table align="center">
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/nextdotjs/white" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>Next.js</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="40" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/react/61DAFB" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>React</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=angular" width="40" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/angular/DD0031" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>Angular</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>TypeScript</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>Tailwind</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="40" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>Figma</sub></td>
 </tr>
 </table>
 
-### Backend & Database
+Backend & Database
 <table align="center">
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="40" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/nestjs/E0234E" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>NestJS</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>Node.js</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>Postgres</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>MongoDB</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=py" width="40" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/python/3776AB" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>Python</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=flask" width="40" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/flask/white" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>Flask</sub></td>
 </tr>
 </table>
 
-### Architecture & DevOps
+Architecture & DevOps
 <table align="center">
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/nx/white" width="40" height="40" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/nx/white" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>Nx</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/docker/2496ED" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>Docker</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>K8s</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=jenkins" width="40" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/jenkins/D24939" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>Jenkins</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=prometheus" width="40" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/prometheus/E6522C" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>Prometheus</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=grafana" width="40" />
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/grafana/F46800" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
 <sub>Grafana</sub></td>

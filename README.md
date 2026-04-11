@@ -1,6 +1,6 @@
 <div align="center">
 
-Frontend & Design
+### Frontend & Design
 <table align="center">
 <tr>
 <td align="center" width="80"><img src="https://cdn.simpleicons.org/nextdotjs/white" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
@@ -30,7 +30,7 @@ Frontend & Design
 </tr>
 </table>
 
-Backend & Database
+### Backend & Database
 <table align="center">
 <tr>
 <td align="center" width="80"><img src="https://cdn.simpleicons.org/nestjs/E0234E" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
@@ -60,7 +60,7 @@ Backend & Database
 </tr>
 </table>
 
-Architecture & DevOps
+### Architecture & DevOps
 <table align="center">
 <tr>
 <td align="center" width="80"><img src="https://cdn.simpleicons.org/nx/white" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />

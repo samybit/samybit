@@ -5,30 +5,100 @@
 Developer focused on building clean, practical applications.  
 Currently improving my skills in backend development and open-source contribution. 🐳
 
-### Frontend & Design
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+Frontend & Design
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" />
 
-### Backend & Database
-![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Architecture & DevOps
-![Nx](https://img.shields.io/badge/Nx-000000?style=for-the-badge&logo=nx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white)
+Next.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" />
+
+
+React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=angular" />
+
+
+Angular</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" />
+
+
+TypeScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" />
+
+
+Tailwind</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" />
+
+
+Figma</td>
+</tr>
+</table>
+
+Backend & Database
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nestjs" />
+
+
+NestJS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" />
+
+
+Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" />
+
+
+PostgreSQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" />
+
+
+MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=py" />
+
+
+Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=flask" />
+
+
+Flask</td>
+</tr>
+</table>
+
+Architecture & DevOps
+<table align="center">
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/nx/white" width="50" height="50" />
+
+
+Nx</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" />
+
+
+Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" />
+
+
+K8s</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=jenkins" />
+
+
+Jenkins</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=prometheus" />
+
+
+Prometheus</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=grafana" />
+
+
+Grafana</td>
+</tr>
+</table>
 
 ---
-*Check my [portfolio](https://samybit.github.io/brutalist-portfolio/).*
+<p align="center">
+  <i>Check my personal site</i><br>
+  <a href="https://samybit.github.io/brutalist-portfolio/"><b>[ SAMYBIT.IO ]</b></a>
+</p>
+
 </div>

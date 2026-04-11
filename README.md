@@ -11,136 +11,152 @@ Currently improving my skills in backend development and open-source contributio
 </p>
 
 ---
-### Frontend & Design
+Frontend & Design
 <table align="center">
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" />
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40" />
 
 
-Next.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" />
+<sub>Next.js</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="40" />
 
 
-React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=angular" />
+<sub>React</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=angular" width="40" />
 
 
-Angular</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=ts" />
+<sub>Angular</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40" />
 
 
-TypeScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" />
+<sub>TypeScript</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40" />
 
 
-Tailwind</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=figma" />
+<sub>Tailwind</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="40" />
 
 
-Figma</td>
+<sub>Figma</sub></td>
 </tr>
 </table>
 
-### Backend & Database
+Backend & Database
 <table align="center">
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=nestjs" />
+<td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="40" />
 
 
-NestJS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" />
+<sub>NestJS</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40" />
 
 
-Node.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" />
+<sub>Node.js</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40" />
 
 
-PostgreSQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" />
+<sub>Postgres</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40" />
 
 
-MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=py" />
+<sub>MongoDB</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=py" width="40" />
 
 
-Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=flask" />
+<sub>Python</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=flask" width="40" />
 
 
-Flask</td>
+<sub>Flask</sub></td>
 </tr>
 </table>
 
-### Architecture & DevOps
+Architecture & DevOps
 <table align="center">
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/nx/white" width="50" height="50" />
+<td align="center"><img src="https://cdn.simpleicons.org/nx/white" width="40" height="40" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
-Nx</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" />
+<sub>Nx</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40" />
 
 
-Docker</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" />
+<sub>Docker</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" />
 
 
-K8s</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=jenkins" />
+<sub>K8s</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=jenkins" width="40" />
 
 
-Jenkins</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=prometheus" />
+<sub>Jenkins</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=prometheus" width="40" />
 
 
-Prometheus</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=grafana" />
+<sub>Prometheus</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=grafana" width="40" />
 
 
-Grafana</td>
+<sub>Grafana</sub></td>
 </tr>
 </table>
 
-### Agile & Collaboration
+Agile & Collaboration
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://cdn.simpleicons.org/trello/0079BF" width="30" height="30" style="background-color: #1a1a1a; padding: 10px; border-radius: 10px;" />
+<img src="https://cdn.simpleicons.org/trello/0079BF" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
-Trello
+<sub>Trello</sub>
 </td>
 <td align="center">
-<img src="https://cdn.simpleicons.org/jira/0052CC" width="30" height="30" style="background-color: #1a1a1a; padding: 10px; border-radius: 10px;" />
+<img src="https://cdn.simpleicons.org/jira/0052CC" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
-Jira
+<sub>Jira</sub>
 </td>
 <td align="center">
-<img src="https://api.iconify.design/logos:slack-icon.svg" width="30" height="30" style="background-color: #1a1a1a; padding: 10px; border-radius: 10px;" />
+<img src="https://api.iconify.design/logos:slack-icon.svg" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
-Slack
+<sub>Slack</sub>
 </td>
 <td align="center">
-<img src="https://cdn.simpleicons.org/postman/FF6C37" width="30" height="30" style="background-color: #1a1a1a; padding: 10px; border-radius: 10px;" />
+<img src="https://cdn.simpleicons.org/notion/ffffff" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
-Postman
+<sub>Notion</sub>
 </td>
-<!--
+</tr>
+</table>
+
+API & Testing
+<table align="center">
+<tr>
 <td align="center">
-<img src="https://cdn.simpleicons.org/github/ffffff" width="30" height="30" style="background-color: #1a1a1a; padding: 10px; border-radius: 10px;" />
--->
-<!--
-GitHub
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
+
+
+<sub>Postman</sub>
 </td>
--->
 <td align="center">
-<img src="https://cdn.simpleicons.org/notion/ffffff" width="30" height="30" style="background-color: #1a1a1a; padding: 10px; border-radius: 10px;" />
+<img src="https://cdn.simpleicons.org/jest/C21325" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
 
 
-Notion
+<sub>Jest</sub>
+</td>
+<td align="center">
+<img src="https://api.iconify.design/logos:cypress-icon.svg" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
+
+
+<sub>Cypress</sub>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
+
+
+<sub>Swagger</sub>
 </td>
 </tr>
 </table>

@@ -7,7 +7,7 @@ Currently improving my skills in backend development and open-source contributio
 
 <p align="center">
   <i>Check my personal site</i><br>
-  <a href="https://samybit.github.io/brutalist-portfolio/"><b>[ SAMYBIT.IO ]</b></a>
+  <a href="https://samybit.github.io/brutalist-portfolio/"><b>[ samybit.github.io ]</b></a>
 </p>
 
 ---
@@ -145,7 +145,6 @@ Notion
 </tr>
 </table>
 
-
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=samybit&theme=radical)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=samybit&layout=donut&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=ffffff)
 
 </div>

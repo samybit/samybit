@@ -1,17 +1,6 @@
 <div align="center">
 
-# 👋 About Me
-
-Developer focused on building clean, practical applications.  
-Currently improving my skills in backend development and open-source contribution. 🐳
-
-<p align="center">
-  <i>Check my personal site</i><br>
-  <a href="https://samybit.github.io/brutalist-portfolio/"><b>[ samybit.github.io ]</b></a>
-</p>
-
----
-Frontend & Design
+### Frontend & Design
 <table align="center">
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40" />
@@ -41,7 +30,7 @@ Frontend & Design
 </tr>
 </table>
 
-Backend & Database
+### Backend & Database
 <table align="center">
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="40" />
@@ -71,7 +60,7 @@ Backend & Database
 </tr>
 </table>
 
-Architecture & DevOps
+### Architecture & DevOps
 <table align="center">
 <tr>
 <td align="center"><img src="https://cdn.simpleicons.org/nx/white" width="40" height="40" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
@@ -101,7 +90,7 @@ Architecture & DevOps
 </tr>
 </table>
 
-Agile & Collaboration
+### Agile & Collaboration
 <table align="center">
 <tr>
 <td align="center">
@@ -131,7 +120,7 @@ Agile & Collaboration
 </tr>
 </table>
 
-API & Testing
+### API & Testing
 <table align="center">
 <tr>
 <td align="center">
@@ -162,5 +151,11 @@ API & Testing
 </table>
 
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=samybit&layout=donut&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=ffffff)
+
+---
+<p align="center">
+  <i>Check my personal site</i><br>
+  <a href="https://samybit.github.io/brutalist-portfolio/"><b>[ samybit.github.io ]</b></a>
+</p>
 
 </div>

@@ -155,7 +155,7 @@
 ---
 <p align="center">
   <i>Check my personal site</i><br>
-  <a href="https://samybit.github.io/brutalist-portfolio/"><b>[ samybit.github.io ]</b></a>
+  <a href="https://samybit-github-io.vercel.app/"><b>[ samybit.github.io ↗ ]</b></a>
 </p>
 
 </div>

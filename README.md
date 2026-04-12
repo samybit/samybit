@@ -2,92 +2,92 @@
 
 ### Frontend & Design
 <table align="center">
-<tr>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/nextdotjs/white" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>Next.js</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/react/61DAFB" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>React</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/angular/DD0031" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>Angular</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>TypeScript</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>Tailwind</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>Figma</sub></td>
-</tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/nextdotjs/white" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>Next.js</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/angular/DD0031" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>Angular</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>TypeScript</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>Tailwind</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/figma/F24E1E" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>Figma</sub>
+    </td>
+  </tr>
 </table>
 
 ### Backend & Database
 <table align="center">
-<tr>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/nestjs/E0234E" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>NestJS</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>Node.js</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>Postgres</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>MongoDB</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/python/3776AB" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>Python</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/flask/white" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>Flask</sub></td>
-</tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>NestJS</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>Postgres</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/mongodb/47A248" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/flask/white" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>Flask</sub>
+    </td>
+  </tr>
 </table>
 
 ### Architecture & DevOps
 <table align="center">
-<tr>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/nx/white" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>Nx</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/docker/2496ED" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>Docker</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>K8s</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/jenkins/D24939" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>Jenkins</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/prometheus/E6522C" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>Prometheus</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/grafana/F46800" width="30" height="30" style="background-color: #1a1a1a; padding: 5px; border-radius: 8px;" />
-
-
-<sub>Grafana</sub></td>
-</tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/nx/white" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>Nx</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>Docker</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>K8s</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/jenkins/D24939" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>Jenkins</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>Prometheus</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/grafana/F46800" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+      <sub>Grafana</sub>
+    </td>
+  </tr>
 </table>
 
 ### Agile & Collaboration

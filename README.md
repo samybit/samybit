@@ -139,7 +139,7 @@
 ---
 <p align="center">
   <i>Check my personal site</i><br>
-  <a href="https://samybit-github-io.vercel.app/"><b>[ samybit.github.io ↗ ]</b></a>
+  <a href="https://samybarsoum.vercel.app/"><b>[ samybarsoum.vercel.app ↗ ]</b></a>
 </p>
 
 </div>

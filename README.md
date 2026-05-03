@@ -138,8 +138,8 @@
 
 ---
 <p align="center">
-  <i>Check my personal site</i><br>
-  <a href="https://samybarsoum.vercel.app/"><b>[ samybarsoum.vercel.app ↗ ]</b></a>
+  <i>Check my personal portfolio</i><br>
+  <a href="https://samyb.vercel.app/"><b>[ samyb.vercel.app ↗ ]</b></a>
 </p>
 
 </div>

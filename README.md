@@ -23,10 +23,10 @@
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
       <sub>Tailwind</sub>
     </td>
-    <td align="center" width="80">
+    <!-- <td align="center" width="80">
       <img src="https://cdn.simpleicons.org/figma/F24E1E" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
       <sub>Figma</sub>
-    </td>
+    </td> -->
   </tr>
 </table>
 

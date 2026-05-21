@@ -15,10 +15,10 @@
       <img src="https://cdn.simpleicons.org/angular/DD0031" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
       <sub>Angular</sub>
     </td>
-    <td align="center" width="80">
+    <!-- <td align="center" width="80">
       <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
       <sub>TypeScript</sub>
-    </td>
+    </td> -->
     <td align="center" width="80">
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
       <sub>Tailwind</sub>
@@ -49,10 +49,10 @@
       <img src="https://cdn.simpleicons.org/mongodb/47A248" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
       <sub>MongoDB</sub>
     </td>
-    <td align="center" width="80">
+    <!-- <td align="center" width="80">
       <img src="https://cdn.simpleicons.org/python/3776AB" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
       <sub>Python</sub>
-    </td>
+    </td> -->
     <td align="center" width="80">
       <img src="https://cdn.simpleicons.org/flask/white" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
       <sub>Flask</sub>

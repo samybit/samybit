@@ -63,10 +63,10 @@
 ### Architecture & DevOps
 <table align="center">
   <tr>
-    <td align="center" width="80">
+    <!-- <td align="center" width="80">
       <img src="https://cdn.simpleicons.org/nx/white" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
       <sub>&nbsp;&nbsp;&nbsp;&nbsp;Nx&nbsp;&nbsp;&nbsp;&nbsp;</sub>
-    </td>
+    </td> -->
     <td align="center" width="80">
       <img src="https://cdn.simpleicons.org/docker/2496ED" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
       <sub>&nbsp;&nbsp;Docker&nbsp;&nbsp;</sub>
@@ -105,10 +105,10 @@
       <img src="https://api.iconify.design/logos:slack-icon.svg" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
       <sub>Slack</sub>
     </td>
-    <td align="center" width="80">
+    <!-- <td align="center" width="80">
       <img src="https://cdn.simpleicons.org/notion/ffffff" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
       <sub>Notion</sub>
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -120,17 +120,21 @@
       <sub>Postman</sub>
     </td>
     <td align="center" width="80">
+  <img src="https://cdn.simpleicons.org/graphql/E10098" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
+  <sub>GraphQL</sub>
+    </td>
+    <td align="center" width="80">
       <img src="https://cdn.simpleicons.org/jest/C21325" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
       <sub>Jest</sub>
     </td>
-    <td align="center" width="80">
+    <!-- <td align="center" width="80">
       <img src="https://api.iconify.design/logos:cypress-icon.svg" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
       <sub>Cypress</sub>
-    </td>
-    <td align="center" width="80">
+    </td> -->
+    <!-- <td align="center" width="80">
       <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="30" height="30" style="width: 30px; height: 30px; min-width: 30px; min-height: 30px; max-width: 30px; max-height: 30px; background-color: #1a1a1a; padding: 5px; border-radius: 8px;" /><br>
       <sub>Swagger</sub>
-    </td>
+    </td> -->
   </tr>
 </table>
 

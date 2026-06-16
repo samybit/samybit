@@ -85,7 +85,7 @@
           src="https://github-readme-stats.shion.dev/api/top-langs/?username=samybit&layout=donut&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=ffffff"
           height="200" alt="Top Languages" />
       </td>
-      <td align="left" valign="middle" width="240">
+      <td align="left" valign="middle" width="230">
         <code>📂 root<br>
 ├── 📂 src<br>
 │&nbsp;&nbsp; └── 📜 main.ts<br>

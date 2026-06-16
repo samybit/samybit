@@ -83,16 +83,14 @@
       <td align="center" valign="middle">
         <img
           src="https://github-readme-stats.shion.dev/api/top-langs/?username=samybit&layout=donut&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=ffffff"
-          height="225" alt="Top Languages" />
+          height="200" alt="Top Languages" />
       </td>
-      <td align="center" valign="middle" width="225">
-        <p align="center">
-          <a href="https://samyb.vercel.app/">
-            <img
-              src="https://img.shields.io/badge/Portfolio-samyb.vercel.app-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white&edge_color=000000"
-              alt="Portfolio Badge" />
-          </a>
-        </p>
+      <td align="left" valign="middle" width="240">
+        <code>📂 root<br>
+├── 📂 src<br>
+│&nbsp;&nbsp; └── 📜 main.ts<br>
+├── 📜 pnpm-lock.yaml<br>
+└── 🚀 <a href="https://samyb.vercel.app/"><b>run_portfolio.sh ↗</b></a></code>
       </td>
     </tr>
   </table>
